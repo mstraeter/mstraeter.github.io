@@ -1,9 +1,6 @@
 ---
 layout: about
-navigation_title: About
-title: About Lucas Gatsas
+navigation_title: Über
+title: Über Marian
 permalink: /about/
 ---
-
-
-
