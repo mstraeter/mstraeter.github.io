@@ -1,4 +1,5 @@
 # Site settings
+<<<<<<< HEAD
 title:mastgraphics.de
 email:info@mastgraphics.de
 description: > # this means to ignore newlines until "baseurl:"
@@ -23,6 +24,20 @@ copyright:
 
 # API settings
 google_api_key:
+=======
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Marian Sträter 
+email: info@mastgraphics.de
+description: > # this means to ignore newlines until "baseurl:"
+  mediadesign made in germany
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mstraeter
+github_username:  mstraeter
+>>>>>>> 1b07dd09ca0469f21cd0639e646130b3e4dc4461
 
 # Build settings
 markdown: kramdown
